@@ -12,7 +12,7 @@ This program gives varied analysis of a user's input
 
 >## Description
 
-<!-- * Welcome to my project! This page receives sentences from users and with the aid of javascript functions, and with the help of Test Driven Development(TDD), varied analysis are carried out on the user's input and afterwards brings them as output -->
+* Welcome to my project! This page receives sentences from users and with the aid of javascript functions, and with the help of Test Driven Development(TDD), varied analysis are carried out on the user's input and afterwards brings them as output
 
 >## Setup/Installation requirements
 
